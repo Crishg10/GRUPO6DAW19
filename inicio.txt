@@ -1,3 +1,4 @@
 Pasos a seguir para crear un repositorio e invitar a colaboradores:
 	1. Crear un repositorio en GitHub 
 	2. En Settings irnos a Colaboradores y ahí invitar por el nombre de GitHub o correo del usuario.
+	3. Subir los ficheros al proyecto por push 
