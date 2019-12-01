@@ -1,0 +1,9 @@
+1.- El integrante 1(vista) sube los archivos perteneciente a la vista del proyecto usando los comandos necesarios de git.
+2.- El integrante 2(controlador) y el integrante 3(en nuestro caso, se comparten las funciones entre los integrantes 1 y 2) se descarga el proyecto completo(rama master).
+3.- Cada integrante realiza las modificaciones necesarias que estime opurtunas dentro de sus roles en el proyecto. Estas modificaciones las subirán al repositorio conforme estimen oportuno.
+4.- Paso a produccion(Se realizara cuando los integrantes finalizen con sus modificaciones). Despliegue del proyecto en un servidor compartido. Esto se realiza tambien con comandos git desde ssh
+
+
+nota: todos los integrantes deben conectarse al repositorio
+nota 2: es importante hacer la configuracion del usuario global (nombre usuario y correo)
+
