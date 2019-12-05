@@ -18,7 +18,7 @@ class Model{
     }
 
     public function bd_conexion(){
-    	include("Config.php");
+    	
     }
 
     public function dameAlimentos(){
